@@ -64,17 +64,17 @@ footer{
 }
 
 @media only screen and (max-width: 1024px) {
-    body {
+    header {
       background-color: #fff;
     }
 }
 @media only screen and (max-width: 768px) {
-    body {
+    header {
       background-color: #000;
     }
 }
 @media only screen and (max-width: 480px) {
-    body {
+    header {
       background-color: #808080;
     }
   }
