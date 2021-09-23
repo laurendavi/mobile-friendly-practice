@@ -62,3 +62,19 @@ footer{
     text-align: center;
     color: white;
 }
+
+@media only screen and (max-width: 1024px) {
+    body {
+      background-color: #fff;
+    }
+}
+@media only screen and (max-width: 768px) {
+    body {
+      background-color: #000;
+    }
+}
+@media only screen and (max-width: 480px) {
+    body {
+      background-color: #808080;
+    }
+  }
